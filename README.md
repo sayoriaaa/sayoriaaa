@@ -59,7 +59,7 @@
 
 
 ## About me  
- - My Blog: [Zhihu]((https://www.zhihu.com/people/underdog-61-32)) 
+ - My Blog: [知乎](https://www.zhihu.com/people/underdog-61-32)
 
 
 ## Github Stats  
